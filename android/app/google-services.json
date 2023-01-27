@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "845654828181",
+    "project_id": "worikiri-10bfe",
+    "storage_bucket": "worikiri-10bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845654828181:android:7268c1c2c2a1166fd9e79c",
+        "android_client_info": {
+          "package_name": "com.example.worikiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845654828181-breom58nacal6cmfp1a7as8v9m4ej1pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYnNoT6_HeJ3fAp_QTO8RERANAeu1gbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845654828181-breom58nacal6cmfp1a7as8v9m4ej1pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845654828181-9f24922mbib7s8abo4np8phh80q1bst3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worikiri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
